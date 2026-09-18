@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-09-18T08:17:38.833373+00:00",
+  "repo": "anishkaranth/ml-learn-10-ridge-regression-scratch",
+  "command": "python ridge_regression_scratch.py",
+  "metrics": {
+    "dataset": "synthetic linear regression with multicollinearity/noise",
+    "ols_test_mse": 0.3308,
+    "ridge_alpha10_test_mse": 0.3158,
+    "best_lambda": 2.728,
+    "best_lambda_test_mse": 0.3136
+  }
+}

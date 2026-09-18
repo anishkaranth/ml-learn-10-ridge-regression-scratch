@@ -1,0 +1,7 @@
+{
+  "dataset": "synthetic linear regression with multicollinearity/noise",
+  "ols_test_mse": 0.3308,
+  "ridge_alpha10_test_mse": 0.3158,
+  "best_lambda": 2.728,
+  "best_lambda_test_mse": 0.3136
+}
